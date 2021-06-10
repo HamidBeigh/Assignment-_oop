@@ -8,10 +8,11 @@ One of the principal advantages of object-oriented pattern over procedural patte
 
 ## Project: Favorite Contact List
 
-###Description
+### Description
 I propose a system where the user can see a contact list, the user can see the details of each contact, and be able to add contacts to their favorite list.
 
-###Pseudocode
+### Pseudocode
+
 class User {
   first name,
   last name,
