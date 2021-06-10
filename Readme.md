@@ -12,7 +12,7 @@ One of the principal advantages of object-oriented pattern over procedural patte
 I propose a system where the user can see a contact list, the user can see the details of each contact, and be able to add contacts to their favorite list.
 
 ### Pseudocode
-
+```javascript
 class User {
   first name,
   last name,
@@ -35,3 +35,5 @@ class contact {
   removeContact()
   getContact()
 }
+
+ ```
